@@ -8,4 +8,4 @@ View the Global GameJam Submission Link Here:
 https://globalgamejam.org/2017/games/wave-erase
 
 Snapshots:
-[img](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/waveerasefeatured.png?itok=RIRaI2oF&timestamp=1485118843)
+![img](https://ggj.s3.amazonaws.com/styles/game_sidebar__wide/game/featured_image/waveerasefeatured.png?itok=RIRaI2oF&timestamp=1485118843)
