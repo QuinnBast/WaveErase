@@ -1,5 +1,5 @@
 # WaveErase
-Global Game Jam 2017 Submission
+Global Game Jam 2017 Submission<br/>
 <b>Authors:</b> Quinn Bast, Adam Tilson
 
 <b>Description:</b> A rhythm game where the player cancels out incoming waves by generating the inverse. Simple mouse controls let the play generate waves in order to cancel the incoming meyhem. Watch out! The more you miss, the more chaos that is created.
